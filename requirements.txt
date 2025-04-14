@@ -1,0 +1,16 @@
+# Core scientific libraries
+numpy
+scipy
+matplotlib
+astroquery
+
+# Potential UI libraries (uncomment ONE or add another)
+# PyQt6
+# PySide6
+# Kivy
+# customtkinter
+
+# Other potential libraries
+# pandas # For data handling
+# scikit-learn # For ML methods
+# unidiff # If using diff patches later (though not strictly needed for the software runtime)
